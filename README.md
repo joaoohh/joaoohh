@@ -4,6 +4,7 @@ Hey 👋! My name is João H.C and I'm an Automation Engineering student at UFSC
 💻 Passionate about technology, I enjoy building projects and softwares, solving problems, exploring automation and control systems.  
 🚀 Currently improving my Python skills and applying them in real-world automation, data, and software projects.  
 🎯 My goals include building a strong portfolio growing as a software developer, contributing to open-source initiatives and find good opportunities.
+
 ⚙️ Fun fact: I love combining programming with process control and industrial automation challenges!
 
 ## Tech Stack
